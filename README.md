@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Việt</h1>
 
+
+
+### 💫About Me :
 <img align="right" alt="Image" width="400" src="https://camo.githubusercontent.com/46d3cd042127fc65c4b66a93a3022184bb5d78280f923c8c897d1ce6cd6c34f5/687474703a2f2f73746f72652e6f7574736f757263696e6770756e6469742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30312f666f6375732d616e696d6174696f6e2e676966">
 
 
@@ -8,6 +11,14 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Vietpr](https://github.com/Vietpr)
 
 - 📫 How to reach me **Phamvietofficial@gmail.com**
+
+- 🏖 My hobbies: Reading and fishing
+  
+-  👉 "This is where I share some interesting projects of my own. If you would like to join, feel free to get in touch with me."  👈
+
+### 💪 Slogan:
+" 𝑳𝒆𝒂𝒓𝒏 𝒇𝒓𝒐𝒎 𝒚𝒆𝒔𝒕𝒆𝒓𝒅𝒂𝒚, 𝒍𝒊𝒗𝒆 𝒇𝒐𝒓 𝒕𝒐𝒅𝒂𝒚, 𝒉𝒐𝒑𝒆 𝒇𝒐𝒓 𝒕𝒐𝒎𝒐𝒓𝒐𝒘 "
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,18 +46,20 @@
 <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
+
 
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Vietpr&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanck22&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vietpr&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
+
+
+
+
+
 
 
