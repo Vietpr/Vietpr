@@ -1,15 +1,52 @@
-# 💫About Me :
-My name is Viet. I am currently learning artificial intelligence at FPT University, this is where I share my interesting projects.
+<h1 align="center">Hi 👋, I'm Việt</h1>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/PhamViet.Official/) 
+<img align="right" alt="Image" width="400" src="https://camo.githubusercontent.com/46d3cd042127fc65c4b66a93a3022184bb5d78280f923c8c897d1ce6cd6c34f5/687474703a2f2f73746f72652e6f7574736f757263696e6770756e6469742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30312f666f6375732d616e696d6174696f6e2e676966">
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Vietpr&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vietpr&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vietpr&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Vietpr&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🌱 I’m currently learning **FPT University**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Vietpr](https://github.com/Vietpr)
+
+- 📫 How to reach me **Phamvietofficial@gmail.com**
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue&color=333333)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML Logo](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=orange&color=333333)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS Logo](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=blue&color=333333)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=Yellow&color=333333)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue&color=333333)](https://www.python.org/)
+[![Django Logo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&color=333333)](https://www.djangoproject.com/)
+[![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=lightblue&color=333333)](https://reactjs.org/)
+[![scikit-learn Logo](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=blue&color=333333)](https://scikit-learn.org/)
+[![TensorFlow Logo](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=orange&color=333333)](https://www.tensorflow.org/)
+[![PyTorch Logo](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=red&color=333333)](https://pytorch.org/)
+[![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=orange&color=333333)](https://github.com/)
+[![OpenCV Logo](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=333333)](https://opencv.org/)
+[![SQL Server Logo](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=blue&color=333333)](https://www.microsoft.com/en-us/sql-server)
+
+
+
+
+
+
+
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanck22&layout=compact&theme=radical&custom_title=Languages"/></td>
+  </tr>
+</table>
+
+
