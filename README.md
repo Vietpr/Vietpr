@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Việt</h1>
 
 
-
 ### 💫About Me :
-<img align="right" alt="Image" width="400" src="https://camo.githubusercontent.com/46d3cd042127fc65c4b66a93a3022184bb5d78280f923c8c897d1ce6cd6c34f5/687474703a2f2f73746f72652e6f7574736f757263696e6770756e6469742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30312f666f6375732d616e696d6174696f6e2e676966">
 
+<img align="right" alt="Vietpr GIF" width="500" src="6e3641df4d4ff70e70554064ff9739a3.gif">
 
 - 🌱 I’m currently learning **FPT University**
 
