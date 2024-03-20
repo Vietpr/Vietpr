@@ -3,7 +3,7 @@
 
 ### 💫About Me :
 
-<img align="right" alt="Vietpr GIF" width="500" src="6e3641df4d4ff70e70554064ff9739a3.gif">
+<img align="right" alt="Vietpr GIF" width="400" src="6e3641df4d4ff70e70554064ff9739a3.gif">
 
 - 🌱 I’m currently learning **FPT University**
 
