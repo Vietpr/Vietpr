@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Viet Pham 👋</h1>
 
-<p align="center">
-  <strong>AI Engineer</strong><br>
-  From data and models to intelligent applications and backend systems.
-</p>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">
   <a href="https://vietpham.pro.vn/">Portfolio</a> ·
@@ -22,21 +19,21 @@
 
 ## About Me
 
-I'm an AI Engineer working across machine learning, data science, computer vision, and software engineering.
+I'm an AI Engineer building applied AI systems across generative AI, computer vision, and machine learning.
 
-I enjoy exploring problems from different angles, from understanding data and developing models to designing APIs, integrating AI capabilities, and building practical applications.
+I work on RAG and multi-agent workflows, detection, segmentation, and OCR pipelines, as well as the backend and MLOps infrastructure needed to train, evaluate, and deploy AI systems.
 
 Beyond implementation, I'm interested in how intelligent systems are designed, evaluated, and improved over time. I also enjoy documenting what I learn and sharing technical insights with the developer community.
 
 ## 🛠️ Tech Stack
 
-- **Languages & Data:** Python · SQL · JavaScript · TypeScript · NumPy · pandas
-- **Machine Learning & Deep Learning:** scikit-learn · XGBoost · PyTorch · TensorFlow
-- **Computer Vision:** OpenCV · YOLO · torchvision
-- **Generative AI & AI Applications:** LLM APIs · Retrieval-Augmented Generation (RAG) · AI Agents · Embeddings & Vector Search · AWS Bedrock
-- **Backend & Databases:** FastAPI · Django · PostgreSQL · MySQL · SQL Server · Redis
-- **Cloud & Engineering:** AWS · Docker · Linux · Git · OpenSearch · Ray
-- **Web & Supporting Tools:** React · Astro · Jupyter Notebook
+- **Core Languages & Data:** Python · SQL · R · NumPy · pandas · Jupyter Notebook
+- **Generative AI & LLM Systems:** RAG · Agent Orchestration · Multi-Agent Workflows · Embeddings · Vector Search · Prompt Design · Tool / Function Calling · Structured Outputs · LLM Evaluation · Guardrails · Google Gemini · AWS Bedrock
+- **Machine Learning:** scikit-learn · XGBoost · Random Forest · Feature Engineering · Model Evaluation · SHAP · MLflow
+- **Deep Learning & Computer Vision:** PyTorch · TensorFlow · YOLO · PaddleDetection · PaddleSeg · SAM2 · PaddleOCR · OpenCV · Detection · Segmentation · Keypoints · OCR · ONNX
+- **Robotics & Edge AI:** ROS2 · Sensor Fusion · ArUco / AprilTag · solvePnP · MAVROS · Jetson Nano
+- **AI Backend & Data Infrastructure:** FastAPI · Django · REST APIs · PostgreSQL · MySQL · SQL Server · Redis · OpenSearch · ChromaDB · Data Pipelines · ETL
+- **MLOps, Cloud & Deployment:** Docker · Ray · AWS SageMaker · ECS / ECR · S3 · Celery / SQS · GitLab CI/CD · Linux
 
 ## ✍️ Technical Writing & Knowledge Sharing
 
