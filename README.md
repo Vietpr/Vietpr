@@ -37,11 +37,7 @@ Beyond implementation, I'm interested in how intelligent systems are designed, e
 
 ## ✍️ Technical Writing & Knowledge Sharing
 
-I enjoy breaking down complex AI concepts, exploring how real systems work, and documenting what I learn along the way. My [AI Handbook](https://vietpr.github.io/AI-Handbook/) brings learning notes and blog posts together in one place.
-
-- **[Learn](https://vietpr.github.io/AI-Handbook/learn/):** Structured notes covering AI foundations, Machine Learning, Deep Learning, Computer Vision, Generative AI, and AI Systems.
-- **[Blog](https://vietpr.github.io/AI-Handbook/blog/):** Articles on AI architecture, engineering decisions, experiments, and practical lessons from building intelligent systems.
-- **Start Reading:** [AI, Machine Learning & Deep Learning](https://vietpr.github.io/AI-Handbook/articles/ai-machine-learning-deep-learning/) — An accessible introduction to the foundations of AI, Machine Learning, and Deep Learning.
+I document what I learn about AI systems, machine learning, computer vision, and practical engineering in my [AI Handbook](https://vietpr.github.io/AI-Handbook/).
 
 ## 📫 Let's Connect
 
