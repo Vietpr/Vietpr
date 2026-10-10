@@ -1,64 +1,53 @@
-<h1 align="center">Hi 👋, I'm Việt</h1>
+<h1 align="center">Hi there, I'm Viet Pham 👋</h1>
 
-
-### 💫About Me :
-
-<img align="right" alt="Vietpr GIF" width="400" src="6e3641df4d4ff70e70554064ff9739a3.gif">
-
-- 🌱 I’m currently learning **FPT University**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vietpr](https://github.com/Vietpr)
-
-- 📫 How to reach me **Phamvietofficial@gmail.com**
-
-- 🏖 My hobbies: Reading and fishing
-  
--  👉 "This is where I share some interesting projects of my own. If you would like to join, feel free to get in touch with me."  👈
-
-### 💪 Slogan:
-" 𝑳𝒆𝒂𝒓𝒏 𝒇𝒓𝒐𝒎 𝒚𝒆𝒔𝒕𝒆𝒓𝒅𝒂𝒚, 𝒍𝒊𝒗𝒆 𝒇𝒐𝒓 𝒕𝒐𝒅𝒂𝒚, 𝒉𝒐𝒑𝒆 𝒇𝒐𝒓 𝒕𝒐𝒎𝒐𝒓𝒐𝒘 "
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue&color=333333)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![HTML Logo](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=orange&color=333333)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS Logo](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=blue&color=333333)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=Yellow&color=333333)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue&color=333333)](https://www.python.org/)
-[![Django Logo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&color=333333)](https://www.djangoproject.com/)
-[![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=lightblue&color=333333)](https://reactjs.org/)
-[![scikit-learn Logo](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=blue&color=333333)](https://scikit-learn.org/)
-[![TensorFlow Logo](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=orange&color=333333)](https://www.tensorflow.org/)
-[![PyTorch Logo](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=red&color=333333)](https://pytorch.org/)
-[![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=orange&color=333333)](https://github.com/)
-[![OpenCV Logo](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=333333)](https://opencv.org/)
-[![SQL Server Logo](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=blue&color=333333)](https://www.microsoft.com/en-us/sql-server)
-
-
-
-
-
-
-
-<hr>
 <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+  <strong>AI Engineer</strong><br>
+  From data and models to intelligent applications and backend systems.
+</p>
 
+<p align="center">
+  <a href="https://vietpham.pro.vn/">Portfolio</a> ·
+  <a href="https://vietpr.github.io/AI-Handbook/">AI Handbook</a> ·
+  <a href="mailto:Phamvietofficial@gmail.com">Email</a>
+</p>
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Vietpr&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vietpr&layout=compact&theme=radical&custom_title=Languages"/></td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=14&amp;duration=3200&amp;pause=1100&amp;center=true&amp;vCenter=true&amp;width=360&amp;height=26&amp;lines=Explore+Data+%E2%86%92+Build+Models+%E2%86%92+Evaluate%3BDesign+APIs+%E2%86%92+Integrate+AI+%E2%86%92+Improve&amp;color=58A6FF">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=14&amp;duration=3200&amp;pause=1100&amp;center=true&amp;vCenter=true&amp;width=360&amp;height=26&amp;lines=Explore+Data+%E2%86%92+Build+Models+%E2%86%92+Evaluate%3BDesign+APIs+%E2%86%92+Integrate+AI+%E2%86%92+Improve&amp;color=0969DA" width="360" alt="Typing animation: Explore Data, Build Models, Evaluate; Design APIs, Integrate AI, Improve">
+  </picture>
+</p>
 
+---
 
+## About Me
 
+I'm an AI Engineer working across machine learning, data science, computer vision, and software engineering.
 
+I enjoy exploring problems from different angles, from understanding data and developing models to designing APIs, integrating AI capabilities, and building practical applications.
 
+Beyond implementation, I'm interested in how intelligent systems are designed, evaluated, and improved over time. I also enjoy documenting what I learn and sharing technical insights with the developer community.
 
+## 🛠️ Tech Stack
 
+- **Languages & Data:** Python · SQL · JavaScript · TypeScript · NumPy · pandas
+- **Machine Learning & Deep Learning:** scikit-learn · XGBoost · PyTorch · TensorFlow
+- **Computer Vision:** OpenCV · YOLO · torchvision
+- **Generative AI & AI Applications:** LLM APIs · Retrieval-Augmented Generation (RAG) · AI Agents · Embeddings & Vector Search · AWS Bedrock
+- **Backend & Databases:** FastAPI · Django · PostgreSQL · MySQL · SQL Server · Redis
+- **Cloud & Engineering:** AWS · Docker · Linux · Git · OpenSearch · Ray
+- **Web & Supporting Tools:** React · Astro · Jupyter Notebook
+
+## ✍️ Technical Writing & Knowledge Sharing
+
+I enjoy breaking down complex AI concepts, exploring how real systems work, and documenting what I learn along the way. My [AI Handbook](https://vietpr.github.io/AI-Handbook/) brings learning notes and blog posts together in one place.
+
+- **[Learn](https://vietpr.github.io/AI-Handbook/learn/):** Structured notes covering AI foundations, Machine Learning, Deep Learning, Computer Vision, Generative AI, and AI Systems.
+- **[Blog](https://vietpr.github.io/AI-Handbook/blog/):** Articles on AI architecture, engineering decisions, experiments, and practical lessons from building intelligent systems.
+- **Start Reading:** [AI, Machine Learning & Deep Learning](https://vietpr.github.io/AI-Handbook/articles/ai-machine-learning-deep-learning/) — An accessible introduction to the foundations of AI, Machine Learning, and Deep Learning.
+
+## 📫 Let's Connect
+
+I'm always happy to connect with people interested in AI, software engineering, and building useful technology.
+
+[Portfolio](https://vietpham.pro.vn/) · [GitHub](https://github.com/Vietpr) · [Email](mailto:Phamvietofficial@gmail.com)
